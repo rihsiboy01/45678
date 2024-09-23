@@ -1,0 +1,51 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+header b{
+    text-shadow: 9px 6px 10px ;
+}
+.bir samp h1{
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    border: 2px solid;
+    width: 270px;
+    font-size: 50px;
+    background-color: aqua;
+}
+.bir samp{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.bir{
+    background-image:url(./Без\ названия.jpg) ;
+    height: 500px;
+}
+.iki div{
+     width: 200px;
+     height: 200px;
+     background-color: green;
+}
+.bir_2{
+    border-radius: 40px;
+}
+.iki{
+    border: 2px solid;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap:wrap;
+    width: 800px;
+    margin-left: 300px;
+}
+.iki div{
+    margin-left: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
